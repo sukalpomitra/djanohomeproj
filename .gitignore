@@ -1,0 +1,5 @@
+Include/
+Lib/
+Scripts/
+epicwander_backend/media/item_images/*.*
+/pip-selfcheck.json
